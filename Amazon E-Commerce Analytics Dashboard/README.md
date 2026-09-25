@@ -1,0 +1,1 @@
+Build an interactive Power BI project analyzing sales, products, customers, shopping behavior, delivery performance, sellers, and returns using an Amazon e-commerce dataset. Includes interactive dashboards, KPIs, DAX measures, filters, and data-driven insights.
